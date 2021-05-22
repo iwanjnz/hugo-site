@@ -18,6 +18,6 @@ draft: false
 
 **Later**
 
-4. The Philamonic - *21:30* ```//not confirmed```  
+4. ~~The Philamonic - *21:30* ```//full```~~
     **OR** Kongs - *21:30*
 5. Live Lounge ;)
