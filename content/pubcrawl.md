@@ -3,7 +3,6 @@ title: "Pubcrawl"
 date: 2021-05-16T20:01:12+01:00
 draft: false
 ---
-updating some content  
 ### Sat June 12th pub crawl
 
 **16:00 Start**
